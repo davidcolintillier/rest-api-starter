@@ -1,6 +1,6 @@
 pipeline{
 environment {
-registry = "davidcolintillier/restapp"
+registry = "davidtillier/restapp"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
