@@ -26,4 +26,3 @@ registry = "davidcolintillier/restapp"
             }
             }
         }
-}
